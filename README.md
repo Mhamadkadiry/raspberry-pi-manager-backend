@@ -4,3 +4,6 @@ To configure your settings, first create a directory within you project called `
 # run the server
 Run the server with the command `sudo node server.js`
 and you're ready to go!
+
+# note 
+We support just Linux right now, so ensure that you're server is runing in a linux environment!
